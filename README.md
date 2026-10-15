@@ -1,6 +1,6 @@
 # Multiphase Flow Regime Classification & Pressure Forecasting
 
-[Link to Live Multiphase Classifier App 🌀:](https://www.google.com/search?q=https://your-streamlit-app-link.herokuapp.com/)
+[Link to Live Multiphase Classifier App 🌀:](https://multiphase-flow-classifier.streamlit.app/)
 
 <p align="center">
 <img src="./image_assets/dashboard_preview.png" alt="Multiphase Flow Classifier Dashboard Preview" style="width:90%; height:auto; object-fit: cover;">
